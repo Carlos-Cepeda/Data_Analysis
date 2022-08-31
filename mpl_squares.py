@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+"""Print square numbers"""
 
 input_values = [1, 2, 3, 4, 5]  # X coordinate
 squares = [1, 4, 9, 16, 25]  # Y coordinate
